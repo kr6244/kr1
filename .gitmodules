@@ -1,3 +1,9 @@
 [submodule "rock1"]
 	path = rock1
 	url = https://github.com/kr6244/kr1
+[submodule "rock2"]
+	path = rock2
+	url = https://github.com/kr6244/kr1
+[submodule "pp"]
+	path = pp
+	url = https://github.com/kr6244/kr1
